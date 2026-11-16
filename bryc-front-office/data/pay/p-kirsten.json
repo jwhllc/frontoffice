@@ -1,0 +1,15 @@
+{
+  "personId": "p-kirsten",
+  "years": {
+    "y-py26": {
+      "base": 53500,
+      "bonus": 535,
+      "note": "Starting salary. December bonus 1%."
+    },
+    "y-py27": {
+      "base": 56442.5,
+      "bonus": null,
+      "note": "Raise 5.5%."
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "personId": "p-tavidee",
+  "years": {
+    "y-py25": {
+      "base": 59500,
+      "bonus": null,
+      "note": "Started at $56,500."
+    },
+    "y-py26": {
+      "base": 60690,
+      "bonus": 2082.5,
+      "note": "COLA 2%. Bonus 3.5%."
+    },
+    "y-py27": {
+      "base": 65545.2,
+      "bonus": 2500.43,
+      "note": "Raise 8%. Bonus 4.12%. $1,000 bonus planned at the end of App Phase 1."
+    }
+  }
+}

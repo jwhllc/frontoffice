@@ -1,0 +1,45 @@
+{
+  "personId": "p-elin",
+  "years": {
+    "y-8jt2j5l": {
+      "base": 52000,
+      "bonus": null,
+      "note": ""
+    },
+    "y-bw30n60": {
+      "base": 52000,
+      "bonus": null,
+      "note": "Starting salary."
+    },
+    "y-py22": {
+      "base": 53560,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py23": {
+      "base": 60000,
+      "bonus": 3213.6,
+      "note": "COLA 1%. Bonus 6%."
+    },
+    "y-py24": {
+      "base": 73500,
+      "bonus": null,
+      "note": "Started the year at $70,000. Raised 5% mid-year."
+    },
+    "y-py25": {
+      "base": 77500,
+      "bonus": null,
+      "note": "Raise 5.44%."
+    },
+    "y-py26": {
+      "base": 93337.13,
+      "bonus": null,
+      "note": "Promoted. COLA 2%. Raised to $93,337.13 mid-year."
+    },
+    "y-py27": {
+      "base": 100057.4,
+      "bonus": null,
+      "note": "Raise 7.2%."
+    }
+  }
+}

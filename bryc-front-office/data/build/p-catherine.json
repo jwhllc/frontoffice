@@ -1,0 +1,18 @@
+{
+  "email": "",
+  "name": "Catherine Buck",
+  "personId": "p-catherine",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "seniors",
+      "title": "Lead Senior Counselor"
+    }
+  ]
+}

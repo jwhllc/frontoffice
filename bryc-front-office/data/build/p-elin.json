@@ -1,0 +1,108 @@
+{
+  "email": "elin@thebryc.org",
+  "name": "Elin Hawkinson",
+  "personId": "p-elin",
+  "years": [
+    {
+      "habits": {
+        "c-innovate": 3,
+        "c-language": 1,
+        "c-service": 4,
+        "c-show": 4,
+        "h-expect": 1,
+        "h-finish": 4,
+        "h-get": 3,
+        "h-prepare": 3,
+        "i-notes": 4,
+        "i-overcom": 4,
+        "i-scale": 4,
+        "i-time": 3
+      },
+      "id": "y-bw30n60",
+      "inProgress": false,
+      "label": "PY20",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "ACT Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-8jt2j5l",
+      "inProgress": false,
+      "label": "PY21",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "ACT Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py22",
+      "inProgress": false,
+      "label": "PY22",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py23",
+      "inProgress": false,
+      "label": "PY23",
+      "milestone": "Became Associate Director of Communications and Development",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Associate Director of Communications and Development"
+    },
+    {
+      "habits": {},
+      "id": "y-py24",
+      "inProgress": false,
+      "label": "PY24",
+      "milestone": "Became Director of Communications and Development",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Communications and Development"
+    },
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "Became Director of Development",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Development"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "Became Chief of Product",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Chief of Product"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "exec",
+      "title": "Chief of Product"
+    }
+  ]
+}

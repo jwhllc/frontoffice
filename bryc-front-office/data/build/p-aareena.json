@@ -1,0 +1,98 @@
+{
+  "email": "",
+  "name": "Aareena Dhillon",
+  "personId": "p-aareena",
+  "updatedAt": "2026-11-15T21:48:12.619Z",
+  "updatedBy": "u_SAngbF2AtEeaTUqhj9mUKg",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py21",
+      "inProgress": false,
+      "label": "PY20",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "Part-time ACT"
+    },
+    {
+      "estimated": false,
+      "habits": {},
+      "id": "y-r49wpqm",
+      "inProgress": false,
+      "label": "PY21",
+      "milestone": "Hired FT",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "Director of Upperclassmen Learning"
+    },
+    {
+      "habits": {},
+      "id": "y-py22",
+      "inProgress": false,
+      "label": "PY22",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py23",
+      "inProgress": false,
+      "label": "PY23",
+      "milestone": "Title: Director of Learning",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Upperclassmen Learning"
+    },
+    {
+      "habits": {},
+      "id": "y-py24",
+      "inProgress": false,
+      "label": "PY24",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Learning"
+    },
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Learning"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "Led ISACT",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Learning (In-School)"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": false,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "Director of ACT"
+    }
+  ]
+}

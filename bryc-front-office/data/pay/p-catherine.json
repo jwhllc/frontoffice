@@ -1,0 +1,10 @@
+{
+  "personId": "p-catherine",
+  "years": {
+    "y-py27": {
+      "base": 70000,
+      "bonus": 1050,
+      "note": "Starting salary. Bonus 1.5%."
+    }
+  }
+}

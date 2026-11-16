@@ -1,0 +1,29 @@
+{
+  "email": "",
+  "name": "Tim Williams",
+  "personId": "p-tim",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Senior Counselor"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "seniors",
+      "title": "Senior Counselor"
+    }
+  ]
+}

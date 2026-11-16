@@ -1,0 +1,73 @@
+{
+  "email": "",
+  "name": "Myeisha Anderson",
+  "personId": "p-myeisha",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py22",
+      "inProgress": false,
+      "label": "PY22",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py23",
+      "inProgress": false,
+      "label": "PY23",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Operations Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py24",
+      "inProgress": false,
+      "label": "PY24",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Operations Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "Became Deputy Chief of Staff",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Deputy Chief of Staff"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Deputy Chief of Staff"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "exec",
+      "title": "Deputy Chief of Staff"
+    }
+  ]
+}

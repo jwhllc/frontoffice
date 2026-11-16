@@ -1,0 +1,29 @@
+{
+  "email": "",
+  "name": "Richard Ross",
+  "personId": "p-richard",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "In-School Advisor"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "advising",
+      "title": "In-School Advisor"
+    }
+  ]
+}

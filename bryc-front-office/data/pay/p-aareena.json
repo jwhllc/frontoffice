@@ -1,0 +1,46 @@
+{
+  "personId": "p-aareena",
+  "updatedAt": "2026-11-15T21:51:22.299Z",
+  "updatedBy": "u_SAngbF2AtEeaTUqhj9mUKg",
+  "years": {
+    "y-py21": {
+      "base": 8983.05,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py22": {
+      "base": 61000,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py23": {
+      "base": 67500,
+      "bonus": 1220,
+      "note": "COLA 1%. Bonus 2%."
+    },
+    "y-py24": {
+      "base": 73500,
+      "bonus": null,
+      "note": "Started the year at $70,000. Raised 5% mid-year."
+    },
+    "y-py25": {
+      "base": 77500,
+      "bonus": null,
+      "note": "Raise 5.44%."
+    },
+    "y-py26": {
+      "base": 85300.83,
+      "bonus": 1550,
+      "note": "COLA 2%. Bonus 2%. Raised to $85,300.83 mid-year."
+    },
+    "y-py27": {
+      "base": 85300.83,
+      "bonus": null,
+      "note": "No change."
+    },
+    "y-r49wpqm": {
+      "base": 60000,
+      "note": "Starting FT salary"
+    }
+  }
+}

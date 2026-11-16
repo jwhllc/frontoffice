@@ -1,0 +1,111 @@
+{
+  "name": "PY27 as of November",
+  "kind": "current",
+  "notes": "Starting point built from the PY27 Schedule Dashboard (summer enrollment projection) and the September room lists. Update Fellow counts with current enrollment. Integrity 2 is assumed to be the 20-seat room. Confirm Jack and Tristan's hours and night limits.",
+  "teams": [
+    {"id": "exec", "name": "Executive"},
+    {"id": "learning", "name": "Learning"},
+    {"id": "seniors", "name": "Seniors"},
+    {"id": "advising", "name": "Advising"},
+    {"id": "persistence", "name": "Persistence"},
+    {"id": "recruitment", "name": "Recruitment"},
+    {"id": "operations", "name": "Operations"},
+    {"id": "development", "name": "Development"}
+  ],
+  "settings": {
+    "cohortSize": 30,
+    "seniorCohortSize": 30,
+    "learningNights": 3,
+    "seniorNights": 3,
+    "pmRatio": 100,
+    "basis": "enrolled",
+    "attendPct": 80,
+    "maxSpan": 6
+  },
+  "payBands": [
+    {"id": "chief", "name": "Chief", "amount": null},
+    {"id": "director", "name": "Director", "amount": null},
+    {"id": "manager", "name": "Manager", "amount": null},
+    {"id": "parttime", "name": "Part-time / contract", "amount": null}
+  ],
+  "campuses": [
+    {
+      "id": "DT",
+      "name": "Downtown",
+      "nights": ["Mon", "Tue", "Wed", "Thu"],
+      "combine910": false,
+      "rooms": [
+        {"id": "dt-h1", "name": "Hustle 1", "cap": 30, "active": true},
+        {"id": "dt-h2", "name": "Hustle 2", "cap": 30, "active": true},
+        {"id": "dt-i3", "name": "Integrity 3", "cap": 30, "active": true},
+        {"id": "dt-i2", "name": "Integrity 2", "cap": 20, "active": true},
+        {"id": "dt-i1", "name": "Integrity 1", "cap": null, "active": false},
+        {"id": "dt-comm", "name": "Community", "cap": null, "active": false},
+        {"id": "dt-studio", "name": "Studio", "cap": null, "active": false},
+        {"id": "dt-f1", "name": "Flex 1", "cap": null, "active": false},
+        {"id": "dt-f2", "name": "Flex 2", "cap": null, "active": false},
+        {"id": "dt-f3", "name": "Flex 3", "cap": null, "active": false},
+        {"id": "dt-conf", "name": "Conference", "cap": null, "active": false}
+      ],
+      "pref": {"8": ["Wed"], "9": ["Mon"], "10": ["Thu"], "9-10": ["Mon", "Thu"], "11": ["Wed", "Thu"], "12": ["Mon", "Tue", "Wed"]},
+      "fellows": {"8": 26, "9": 59, "10": 64, "11": 98, "12": 117}
+    },
+    {
+      "id": "AL",
+      "name": "Airline",
+      "nights": ["Tue", "Wed"],
+      "combine910": true,
+      "rooms": [
+        {"id": "al-h1", "name": "Hustle 1", "cap": 30, "active": true},
+        {"id": "al-h2", "name": "Hustle 2", "cap": 30, "active": true},
+        {"id": "al-int", "name": "Integrity", "cap": 30, "active": true}
+      ],
+      "pref": {"8": ["Tue"], "9": ["Tue"], "10": ["Tue"], "9-10": ["Tue"], "11": ["Tue"], "12": ["Wed"]},
+      "fellows": {"8": 7, "9": 19, "10": 22, "11": 26, "12": 46}
+    }
+  ],
+  "people": [
+    {"id": "p-lucas", "name": "Lucas Spielfogel", "title": "CEO", "tier": "chief", "team": "exec", "type": "exec", "reportsTo": null, "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": ""},
+    {"id": "p-elin", "name": "Elin Hawkinson", "title": "Chief of Product", "tier": "chief", "team": "exec", "type": "exec", "reportsTo": "p-lucas", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": ""},
+    {"id": "p-josh", "name": "Josh Howard", "title": "Chief of Staff", "tier": "chief", "team": "exec", "type": "exec", "reportsTo": "p-lucas", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": ""},
+    {"id": "p-myeisha", "name": "Myeisha Anderson", "title": "Deputy Chief of Staff", "tier": "manager", "team": "exec", "type": "support", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Org-wide access. Flagged the need to formalize the leadership tier in spring 2027."},
+    {"id": "p-devlead", "name": "", "title": "Development lead (Chief or Director)", "tier": "director", "team": "development", "type": "admin", "reportsTo": "p-lucas", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "open", "notes": "Open search. Level still undecided (CDO vs. DoD). Elin drafted the job description."},
+    {"id": "p-chasity", "name": "Chasity Kelley", "title": "Director of Learning", "tier": "director", "team": "learning", "type": "program", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Leads YPAR, SRL and ACT programming (8th-11th). Goal: zero teaching nights so she can run the program."},
+    {"id": "p-kendrick", "name": "Kendrick Henson", "title": "Program Manager, Facilitator Excellence", "tier": "manager", "team": "learning", "type": "program", "reportsTo": "p-chasity", "dotted": null, "fte": 1, "maxNights": 3, "band": null, "status": "filled", "notes": "YPAR lead and org-wide facilitator coaching."},
+    {"id": "p-lauren", "name": "Lauren Bradley", "title": "Program Manager, SRL", "tier": "manager", "team": "learning", "type": "program", "reportsTo": "p-chasity", "dotted": null, "fte": 1, "maxNights": 3, "band": null, "status": "filled", "notes": "SRL excellence, ACT Sophomore support, Health Fellows."},
+    {"id": "p-aareena", "name": "Aareena Dhillon", "title": "Program Manager, ACT", "tier": "manager", "team": "learning", "type": "program", "reportsTo": "p-chasity", "dotted": null, "fte": 1, "maxNights": 2, "band": null, "status": "filled", "notes": "ACT Concierge, American Exchange Project, ACT initiatives. Two nights by agreement."},
+    {"id": "p-tristan", "name": "Tristan J. George", "title": "Program Manager", "tier": "parttime", "team": "learning", "type": "program", "reportsTo": "p-chasity", "dotted": null, "fte": 0.5, "maxNights": 2, "band": null, "status": "filled", "notes": "Part-time. Confirm hours and night limit."},
+    {"id": "p-jack", "name": "Jack Dambrosio", "title": "Program Manager", "tier": "parttime", "team": "learning", "type": "program", "reportsTo": "p-chasity", "dotted": null, "fte": 0.5, "maxNights": 2, "band": null, "status": "filled", "notes": "Confirm role, hours and night limit."},
+    {"id": "p-commeng", "name": "", "title": "Community Engagement Manager", "tier": "manager", "team": "learning", "type": "support", "reportsTo": "p-chasity", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "open", "notes": "Angela's seat. Her last day was Oct 30. Duties being parsed out; Chasity is point of contact. Swag store no longer part of the role."},
+    {"id": "p-jakia", "name": "Jakia Steele", "title": "Director of Senior Counseling", "tier": "director", "team": "seniors", "type": "program", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Postsecondary strategy, college and scholarship partnerships, Guardian engagement. Job description being updated."},
+    {"id": "p-tim", "name": "Tim Williams", "title": "Senior Counselor", "tier": "manager", "team": "seniors", "type": "program", "reportsTo": "p-jakia", "dotted": null, "fte": 1, "maxNights": 3, "band": null, "status": "filled", "notes": ""},
+    {"id": "p-rachel", "name": "Rachel Stevens", "title": "Senior Counselor", "tier": "manager", "team": "seniors", "type": "program", "reportsTo": "p-jakia", "dotted": null, "fte": 1, "maxNights": 3, "band": null, "status": "filled", "notes": ""},
+    {"id": "p-catherine", "name": "Catherine Buck", "title": "Senior Counselor", "tier": "manager", "team": "seniors", "type": "program", "reportsTo": "p-jakia", "dotted": "p-chasity", "fte": 1, "maxNights": 3, "band": null, "status": "filled", "notes": "Co-supervised by Chasity. Also teaches an underclassmen cohort."},
+    {"id": "p-rhonda", "name": "Rhonda", "title": "Director of Advising", "tier": "director", "team": "advising", "type": "support", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Advising at five partner schools: Belaire, CTEC, Glen Oaks, Istrouma, Northeast. Serves advisees, not Fellows, so tagged program support under the current definitions."},
+    {"id": "p-tavidee", "name": "Tavidee Hoskins", "title": "Advisor", "tier": "manager", "team": "advising", "type": "support", "reportsTo": "p-rhonda", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Also deploys BRYC web tools and works BRYC App recommendations with Jakia."},
+    {"id": "p-kirsten", "name": "Kirsten", "title": "Advisor", "tier": "manager", "team": "advising", "type": "support", "reportsTo": "p-rhonda", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Slack title still says In-School ACT Facilitator. Confirm."},
+    {"id": "p-richard", "name": "Richard Ross", "title": "Advisor", "tier": "manager", "team": "advising", "type": "support", "reportsTo": "p-rhonda", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": ""},
+    {"id": "p-alexis", "name": "Alexis Washington", "title": "Persistence Manager", "tier": "manager", "team": "persistence", "type": "support", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Alumni and college Fellows. Open question: what does directing look like without FTE support?"},
+    {"id": "p-forrest", "name": "Forrest Middlebrook, Jr.", "title": "Director of Recruitment and RAM", "tier": "director", "team": "recruitment", "type": "support", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Open enrollment 8th-11th, persistent waitlist. Co-authority with Chasity on Fellow data."},
+    {"id": "p-marcus", "name": "Marcus Washington", "title": "Director of Operations", "tier": "director", "team": "operations", "type": "support", "reportsTo": "p-josh", "dotted": null, "fte": 1, "maxNights": 0, "band": null, "status": "filled", "notes": "Transportation and campus operations."}
+  ],
+  "placements": {
+    "DT-12-1": {"night": "Mon", "room": "dt-h1", "lead": "p-tim"},
+    "DT-12-2": {"night": "Mon", "room": "dt-h2", "lead": "p-rachel"},
+    "DT-9-1": {"night": "Mon", "room": "dt-i3", "lead": "p-kendrick"},
+    "DT-9-2": {"night": "Mon", "room": "dt-i2", "lead": "p-tristan"},
+    "DT-12-3": {"night": "Tue", "room": "dt-h1", "lead": "p-catherine"},
+    "DT-11-1": {"night": "Wed", "room": "dt-h1", "lead": "p-aareena"},
+    "DT-12-4": {"night": "Wed", "room": "dt-h2", "lead": "p-rachel"},
+    "DT-11-2": {"night": "Wed", "room": "dt-i3", "lead": "p-lauren"},
+    "DT-8-1": {"night": "Wed", "room": "dt-i2", "lead": "p-kendrick"},
+    "DT-10-1": {"night": "Thu", "room": "dt-h1", "lead": "p-catherine"},
+    "DT-10-2": {"night": "Thu", "room": "dt-h2", "lead": "p-lauren"},
+    "DT-11-3": {"night": "Thu", "room": "dt-i3", "lead": "p-jack"},
+    "AL-11-1": {"night": "Tue", "room": "al-h1", "lead": "p-aareena"},
+    "AL-9-10-1": {"night": "Tue", "room": "al-h2", "lead": "p-lauren"},
+    "AL-8-1": {"night": "Tue", "room": "al-int", "lead": "p-kendrick"},
+    "AL-12-1": {"night": "Wed", "room": "al-h1", "lead": "p-tim"},
+    "AL-12-2": {"night": "Wed", "room": "al-h2", "lead": "p-catherine"}
+  }
+}

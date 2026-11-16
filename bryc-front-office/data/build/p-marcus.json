@@ -1,0 +1,40 @@
+{
+  "email": "",
+  "name": "Marcus Washington",
+  "personId": "p-marcus",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Operations"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Operations"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "operations",
+      "title": "Director of Operations"
+    }
+  ]
+}

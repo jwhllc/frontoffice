@@ -1,0 +1,40 @@
+{
+  "email": "",
+  "name": "Rhonda Irwin-Ikechukwu",
+  "personId": "p-rhonda",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "In-School College Counselor"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "Became Director of Advising",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Advising"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "advising",
+      "title": "Director of Advising"
+    }
+  ]
+}

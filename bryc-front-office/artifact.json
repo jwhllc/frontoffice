@@ -1,0 +1,23 @@
+{
+  "title": "BRYC Front Office",
+  "url": "https://claude.ai/artifact/9T4LYFh9UZrb4oLwmzktS5",
+  "publishedVersion": 10,
+  "runtimeContract": "0.2.96",
+  "capabilities": {
+    "db": {
+      "rules": [
+        { "path": "", "read": "interact", "write": "interact" },
+        { "path": "build", "read": "interact", "write": "admin" },
+        { "path": "buildmeta", "read": "interact", "write": "admin" },
+        { "path": "pay", "read": "admin", "write": "admin" }
+      ]
+    },
+    "user": { "scopes": ["profile"] },
+    "downloads": true
+  },
+  "accessLevels": {
+    "interact": "Anyone the artifact is shared with as Contributor or Editor",
+    "admin": "Editors (Josh as owner, Lucas)"
+  },
+  "dataSnapshotDate": "2026-11-15"
+}

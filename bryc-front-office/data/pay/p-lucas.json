@@ -1,0 +1,45 @@
+{
+  "personId": "p-lucas",
+  "years": {
+    "y-py13": {
+      "base": 70000,
+      "bonus": null,
+      "note": "Starting salary."
+    },
+    "y-py21": {
+      "base": 100000,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py22": {
+      "base": 100000,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py23": {
+      "base": 100000,
+      "bonus": null,
+      "note": "No change."
+    },
+    "y-py24": {
+      "base": 140000,
+      "bonus": null,
+      "note": "Started the year at $110,000. Raised 30% mid-year."
+    },
+    "y-py25": {
+      "base": 140000,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py26": {
+      "base": 142800,
+      "bonus": 1428,
+      "note": "COLA 2%. December bonus 1%."
+    },
+    "y-py27": {
+      "base": 47999.9,
+      "bonus": null,
+      "note": "Payroll on Nov 15, 2026. May plan was $142,800."
+    }
+  }
+}

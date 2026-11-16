@@ -1,0 +1,40 @@
+{
+  "email": "",
+  "name": "Kendrick Henson",
+  "personId": "p-kendrick",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "Became Lead Learning Manager",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "Lead Learning Manager"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "personId": "p-jakia",
+  "years": {
+    "y-py23": {
+      "base": 48000,
+      "bonus": null,
+      "note": "Starting salary."
+    },
+    "y-py24": {
+      "base": 50000,
+      "bonus": null,
+      "note": "Raise 4.17%."
+    },
+    "y-py25": {
+      "base": 60750,
+      "bonus": null,
+      "note": "Raised for a bigger role."
+    },
+    "y-py26": {
+      "base": 77500,
+      "bonus": 701.36,
+      "note": "Promoted. December bonus 1%. Raised to $77,500 mid-year."
+    },
+    "y-py27": {
+      "base": 77500,
+      "bonus": null,
+      "note": "No change."
+    }
+  }
+}

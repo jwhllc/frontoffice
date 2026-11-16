@@ -1,0 +1,12 @@
+{
+  "name": "bryc-front-office",
+  "version": "1.0.0",
+  "private": true,
+  "description": "BRYC Front Office staffing planner (published as a claude.ai artifact)",
+  "scripts": {
+    "test": "node test/regression.test.js && node test/features.test.js && node test/cost.test.js"
+  },
+  "devDependencies": {
+    "playwright": "1.48.2"
+  }
+}

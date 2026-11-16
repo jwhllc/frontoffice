@@ -1,0 +1,40 @@
+{
+  "email": "",
+  "name": "Lauren Bradley",
+  "personId": "p-lauren",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "Learning Manager"
+    }
+  ]
+}

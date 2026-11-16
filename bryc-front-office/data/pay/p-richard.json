@@ -1,0 +1,15 @@
+{
+  "personId": "p-richard",
+  "years": {
+    "y-py26": {
+      "base": 52000,
+      "bonus": 1820,
+      "note": "Starting salary. Bonus 3.5%."
+    },
+    "y-py27": {
+      "base": 55000.4,
+      "bonus": null,
+      "note": "Raise 5.77%."
+    }
+  }
+}

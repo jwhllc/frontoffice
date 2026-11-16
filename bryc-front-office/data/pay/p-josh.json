@@ -1,0 +1,45 @@
+{
+  "personId": "p-josh",
+  "years": {
+    "y-py18": {
+      "base": 50000,
+      "bonus": null,
+      "note": "Starting salary."
+    },
+    "y-py21": {
+      "base": 67500,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py22": {
+      "base": 76275,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py23": {
+      "base": 82500,
+      "bonus": 1525.5,
+      "note": "COLA 1%. Bonus 2%."
+    },
+    "y-py24": {
+      "base": 112000,
+      "bonus": null,
+      "note": "Started the year at $93,250. Raised 15% mid-year."
+    },
+    "y-py25": {
+      "base": 113400,
+      "bonus": null,
+      "note": "Raise 1.25%."
+    },
+    "y-py26": {
+      "base": 121451.4,
+      "bonus": 1134,
+      "note": "COLA 2%. Bonus 1%. Raised to $121,451.40 mid-year."
+    },
+    "y-py27": {
+      "base": 130000,
+      "bonus": null,
+      "note": "Payroll on Nov 15, 2026. May plan was $121,451.40."
+    }
+  }
+}

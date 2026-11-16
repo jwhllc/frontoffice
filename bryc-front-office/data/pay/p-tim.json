@@ -1,0 +1,15 @@
+{
+  "personId": "p-tim",
+  "years": {
+    "y-py26": {
+      "base": 55000,
+      "bonus": null,
+      "note": "Starting salary."
+    },
+    "y-py27": {
+      "base": 56100,
+      "bonus": null,
+      "note": "COLA 2%."
+    }
+  }
+}

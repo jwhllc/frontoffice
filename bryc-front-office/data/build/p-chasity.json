@@ -1,0 +1,62 @@
+{
+  "email": "",
+  "name": "Chasity Kelley",
+  "personId": "p-chasity",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py23",
+      "inProgress": false,
+      "label": "PY23",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Underclassmen Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py24",
+      "inProgress": false,
+      "label": "PY24",
+      "milestone": "Became Learning Manager",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "Became Lead Learning Manager",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Lead Learning Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "Became Director of Learning",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Learning (At-BRYC)"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "Became Director of Programs",
+      "note": "",
+      "okras": [],
+      "team": "learning",
+      "title": "Director of Programs"
+    }
+  ]
+}

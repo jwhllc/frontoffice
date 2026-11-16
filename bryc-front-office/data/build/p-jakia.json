@@ -1,0 +1,62 @@
+{
+  "email": "",
+  "name": "Jakia Steele",
+  "personId": "p-jakia",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py23",
+      "inProgress": false,
+      "label": "PY23",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "College Counseling Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py24",
+      "inProgress": false,
+      "label": "PY24",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "College Counseling Manager"
+    },
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "Became Lead College Counselor",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Lead College Counselor"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "Became Director of Senior Counseling",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Director of Senior Counseling"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "seniors",
+      "title": "Director of Senior Counseling"
+    }
+  ]
+}

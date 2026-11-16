@@ -1,0 +1,20 @@
+{
+  "personId": "p-lauren",
+  "years": {
+    "y-py25": {
+      "base": 13000,
+      "bonus": null,
+      "note": "Part-time (from payroll)."
+    },
+    "y-py26": {
+      "base": 52000,
+      "bonus": 520,
+      "note": "Full-time. December bonus 1%."
+    },
+    "y-py27": {
+      "base": 56160,
+      "bonus": null,
+      "note": "Raise 8%."
+    }
+  }
+}

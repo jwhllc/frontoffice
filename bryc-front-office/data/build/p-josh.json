@@ -1,0 +1,117 @@
+{
+  "email": "",
+  "name": "Josh Howard",
+  "personId": "p-josh",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py18",
+      "inProgress": false,
+      "label": "PY18",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py19",
+      "inProgress": false,
+      "label": "PY19",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py20",
+      "inProgress": false,
+      "label": "PY20",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py21",
+      "inProgress": false,
+      "label": "PY21",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py22",
+      "inProgress": false,
+      "label": "PY22",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": ""
+    },
+    {
+      "habits": {},
+      "id": "y-py23",
+      "inProgress": false,
+      "label": "PY23",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Chief of Staff"
+    },
+    {
+      "habits": {},
+      "id": "y-py24",
+      "inProgress": false,
+      "label": "PY24",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Chief of Staff"
+    },
+    {
+      "habits": {},
+      "id": "y-py25",
+      "inProgress": false,
+      "label": "PY25",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Chief of Staff"
+    },
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "Chief of Staff"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "exec",
+      "title": "Chief of Staff"
+    }
+  ]
+}

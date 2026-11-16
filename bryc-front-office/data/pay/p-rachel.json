@@ -1,0 +1,40 @@
+{
+  "personId": "p-rachel",
+  "years": {
+    "y-py21": {
+      "base": 50000,
+      "bonus": null,
+      "note": "Starting salary."
+    },
+    "y-py22": {
+      "base": 55000,
+      "bonus": null,
+      "note": ""
+    },
+    "y-py23": {
+      "base": 60000,
+      "bonus": 6600,
+      "note": "COLA 1%. Bonus 12%."
+    },
+    "y-py24": {
+      "base": 70000,
+      "bonus": null,
+      "note": "Raise 16.7%."
+    },
+    "y-py25": {
+      "base": 71500,
+      "bonus": null,
+      "note": "Raise 2.14%."
+    },
+    "y-py26": {
+      "base": 72930,
+      "bonus": null,
+      "note": "COLA 2%."
+    },
+    "y-py27": {
+      "base": 73659.3,
+      "bonus": null,
+      "note": "COLA 1%, capped to keep separation from director pay."
+    }
+  }
+}

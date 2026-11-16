@@ -1,0 +1,29 @@
+{
+  "email": "",
+  "name": "Kirsten Raby",
+  "personId": "p-kirsten",
+  "years": [
+    {
+      "habits": {},
+      "id": "y-py26",
+      "inProgress": false,
+      "label": "PY26",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "",
+      "title": "In-School ACT Instructor"
+    },
+    {
+      "habits": {},
+      "id": "y-py27",
+      "inProgress": true,
+      "label": "PY27",
+      "milestone": "",
+      "note": "",
+      "okras": [],
+      "team": "advising",
+      "title": "In-School ACT Instructor"
+    }
+  ]
+}
